@@ -1,0 +1,2 @@
+# AdatbazisG01Beadando2
+BeadandoFeladat
