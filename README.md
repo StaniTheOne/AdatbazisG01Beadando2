@@ -83,7 +83,7 @@ Minden eladás konkrét eseményként kerül rögzítésre. Ez a tábla a legfon
 
 ### 5. `service` – Szervizelési események táblája
 
-Ez a tábla a szervizelések eseményeit tartalmazza – függetlenül attól, hogy az autó el lett-e már adva. Segítségével nyomon követhetők a hibák, javítások és időpontok.
+Ez a tábla a szervizelések eseményeit tartalmazza függetlenül attól, hogy az autó el lett-e már adva. Segítségével nyomon követhetők a hibák, javítások és időpontok.
 
 | Oszlop | Típus | Leírás |
 |--------|--------|--------|
